@@ -39,6 +39,7 @@ Add additional notes about how to deploy this on a live system
 ## Built With
 
 * [NetBeans](http://netbeans.apache.org/) - The IDE used
+* [JDK 1.7](http://netbeans.apache.org/) - Software Development Kit
 
 ## Authors
 
@@ -49,6 +50,6 @@ Add additional notes about how to deploy this on a live system
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE0MDc0MjU4OCwtMTY2Mzk0NzIxMSwxNz
-MwNTE2MDQzXX0=
+eyJoaXN0b3J5IjpbLTc1NzQ3NTkzOCwyMTQwNzQyNTg4LC0xNj
+YzOTQ3MjExLDE3MzA1MTYwNDNdfQ==
 -->
