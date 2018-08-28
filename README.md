@@ -38,7 +38,7 @@ Add additional notes about how to deploy this on a live system
 
 ## Built With
 
-* [with NetBeans](http://netbeans.apache.org/) - The web framework used
+* [NetBeans](http://netbeans.apache.org/) - The IDE used
 
 ## Contributing
 
@@ -50,13 +50,12 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 ## Authors
 
-* **Dmitrii Baranov** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+* **Dmitrii Baranov** - *Initial work* - [Orimay](https://github.com/Orimay)
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ1NTA0OTI5NCwxNzMwNTE2MDQzXX0=
+eyJoaXN0b3J5IjpbLTE2NjM5NDcyMTEsMTczMDUxNjA0M119
 -->
