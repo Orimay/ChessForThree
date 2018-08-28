@@ -2,44 +2,10 @@
 
 One Paragraph of project description goes here
 
-## Getting Started
-
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
-
-### Prerequisites
-
-What things you need to install the software and how to install them
-
-```
-Give examples
-```
-
-### Installing
-
-A step by step series of examples that tell you how to get a development env running
-
-Say what the step will be
-
-```
-Give the example
-```
-
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo
-
-## Deployment
-
-Add additional notes about how to deploy this on a live system
-
 ## Built With
 
 * [NetBeans](http://netbeans.apache.org/) - The IDE used
-* [JDK 1.7](http://netbeans.apache.org/) - Software Development Kit
+* [JDK 1.7](http://www.oracle.com/technetwork/java/javase/downloads/java-archive-downloads-javase7-521261.html) - Software Development Kit
 
 ## Authors
 
@@ -50,6 +16,6 @@ Add additional notes about how to deploy this on a live system
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc1NzQ3NTkzOCwyMTQwNzQyNTg4LC0xNj
-YzOTQ3MjExLDE3MzA1MTYwNDNdfQ==
+eyJoaXN0b3J5IjpbLTEzNTY5ODU3ODksMjE0MDc0MjU4OCwtMT
+Y2Mzk0NzIxMSwxNzMwNTE2MDQzXX0=
 -->
