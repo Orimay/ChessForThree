@@ -59,12 +59,6 @@ See also the list of [contributors](https://github.com/your/project/contributors
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-
-## Acknowledgments
-
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTczMDUxNjA0M119
+eyJoaXN0b3J5IjpbNTI0OTcyMjg1LDE3MzA1MTYwNDNdfQ==
 -->
