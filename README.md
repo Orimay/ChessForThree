@@ -38,7 +38,7 @@ Add additional notes about how to deploy this on a live system
 
 ## Built With
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
+* [NetBeans](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
 * [Maven](https://maven.apache.org/) - Dependency Management
 * [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
 
@@ -60,5 +60,5 @@ See also the list of [contributors](https://github.com/your/project/contributors
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTI0OTcyMjg1LDE3MzA1MTYwNDNdfQ==
+eyJoaXN0b3J5IjpbMTA5MDc4MDg5LDE3MzA1MTYwNDNdfQ==
 -->
